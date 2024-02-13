@@ -1,2 +1,3 @@
 # Estudos sobre IA, Machine learning, deep learning, etc
-Este repositório será dedicado aos meus projetos e estudos sobre inteligência artificial e assuntos derivados
+Olá! Seja bem-vindo! 
+Este repositório será dedicado aos meus estudos e projetos sobre inteligência artificial, machine learning e assuntos derivados. Irei tratar desde a introdução do assunto até a elaboração de projetos práticos.
